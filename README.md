@@ -3,17 +3,13 @@ cpm-optional
 
 [![Build Status](https://travis-ci.org/iauns/cpm-optional.png)](https://travis-ci.org/iauns/cpm-optional)
 
-CPM external a c++11 optional implementation. The source implementation is
-here: https://github.com/hostilefork/CopyMoveConstrainedOptional.git .
-
-This repository may be converted into a CPM module instead of a
-one-version-only external in the future.
+C++11 optional standalone implementation. This CPM external pulls its source
+from here: https://github.com/hostilefork/CopyMoveConstrainedOptional.git .
 
 Use
 ---
 
-To use this module once you perform `CPM_AddModule` add the following include
-directive:
+Once you perform `CPM_AddModule` add the following include directive:
 
 ```c++
 #include <cmc-optional/optional.hpp>
