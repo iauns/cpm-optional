@@ -1,6 +1,8 @@
 cpm-optional
 ============
 
+[![Build Status](https://travis-ci.org/iauns/cpm-optional.png)](https://travis-ci.org/iauns/cpm-optional)
+
 CPM external a c++11 optional implementation. The source implementation is
 here: https://github.com/hostilefork/CopyMoveConstrainedOptional.git .
 
