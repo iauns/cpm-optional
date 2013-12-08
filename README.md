@@ -14,9 +14,18 @@ To use this module once you perform `CPM_AddModule` add the following include
 directive:
 
 ```c++
-#include "cmc-optional/optional.hpp"
+#include <cmc-optional/optional.hpp>
 ```
+
+See http://en.cppreference.com/w/cpp/utility/optional for a great reference
+for the upcoming optional class in the standard.
 
 Compilers Tested
 ----------------
+
+Clang 3.3
+---------
+
+GCC 4.8
+-------
 
