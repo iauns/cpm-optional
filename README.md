@@ -17,15 +17,9 @@ directive:
 #include <cmc-optional/optional.hpp>
 ```
 
-See http://en.cppreference.com/w/cpp/utility/optional for a great reference
-for the upcoming optional class in the standard.
-
 Compilers Tested
 ----------------
 
-Clang 3.3
----------
-
-GCC 4.8
--------
+* Clang 3.3
+* GCC 4.8
 
